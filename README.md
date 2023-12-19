@@ -4,7 +4,7 @@
 
 I am a BCA Student who is  keen to learning new skills and brushing them consistently
 I learnt **C, Java, C#, Python, Html, CSS, JS** but I like to jump deep into the
-_JAVA_. Because I wanted to become a java developer. So I started contributing on the GitHub 
+_PYTHON_. Because I wanted to become a java developer. So I started contributing on the GitHub 
 
 GitHub is really so amazing for hungry learners
 I am beginner to this platform and started to working on 
